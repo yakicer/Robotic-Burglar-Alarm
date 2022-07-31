@@ -1,0 +1,10 @@
+C:\Users\Yakup\source\repos\HareketSensorApp\HareketSensorApp\bin\Debug\HareketSensorApp.exe.config
+C:\Users\Yakup\source\repos\HareketSensorApp\HareketSensorApp\bin\Debug\HareketSensorApp.exe
+C:\Users\Yakup\source\repos\HareketSensorApp\HareketSensorApp\bin\Debug\HareketSensorApp.pdb
+C:\Users\Yakup\source\repos\HareketSensorApp\HareketSensorApp\obj\Debug\HareketSensorApp.csproj.AssemblyReference.cache
+C:\Users\Yakup\source\repos\HareketSensorApp\HareketSensorApp\obj\Debug\HareketSensorApp.Form1.resources
+C:\Users\Yakup\source\repos\HareketSensorApp\HareketSensorApp\obj\Debug\HareketSensorApp.Properties.Resources.resources
+C:\Users\Yakup\source\repos\HareketSensorApp\HareketSensorApp\obj\Debug\HareketSensorApp.csproj.GenerateResource.cache
+C:\Users\Yakup\source\repos\HareketSensorApp\HareketSensorApp\obj\Debug\HareketSensorApp.csproj.CoreCompileInputs.cache
+C:\Users\Yakup\source\repos\HareketSensorApp\HareketSensorApp\obj\Debug\HareketSensorApp.exe
+C:\Users\Yakup\source\repos\HareketSensorApp\HareketSensorApp\obj\Debug\HareketSensorApp.pdb
