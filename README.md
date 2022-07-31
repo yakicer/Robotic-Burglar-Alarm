@@ -17,5 +17,5 @@ Ardunio için gerekli malzemeler
 1. Ardunio UNO R3
 2. 1 adet hareket sensörü (PIR)
 3. Jumper Kablolar
-Ek olarak projenin tamamlanabilmesi ve uygulanabilmesi için Visual Studio 
+4. Ek olarak projenin tamamlanabilmesi ve uygulanabilmesi için Visual Studio 
 kullanılarak C# entegrasyonu.
