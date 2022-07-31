@@ -1,4 +1,4 @@
- #define PIR 2   //Pin tanımlaması
+ #define PIR 2   //Pin tanımlaması(PIR sensörü için)
  bool durum = 0;
  void setup() {
    pinMode(PIR, INPUT);             
